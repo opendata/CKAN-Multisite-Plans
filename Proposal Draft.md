@@ -26,7 +26,7 @@ Personas:
 
 ## 1 Enhancements to Core CKAN
 
-_These user stories are about enhancing core CKAN that will make it easier to to deploy and manage multiple instances. _
+_These user stories are about enhancing core CKAN that will make it easier to to deploy and manage multiple instances._
 
 _For example, changes so that a CKAN instance can be administered easily by an Instance Admin without requiring high-level sysadmin support (e.g. someone who has access at the command line level to the machine the instance is running on). This is important because the owner of an instance should be able to administer and configure that instance without requesting manual changes by the Cloud Admin (e.g. one wants to avoid an instance owner contacting the cloud admin every time they want the site title changed)_
 
