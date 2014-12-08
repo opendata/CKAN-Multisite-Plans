@@ -6,3 +6,4 @@ We’re solicity feedback about this from December 8–12, before we break up th
 
 Feedback is best provided as [a GitHub issue](issues/). Or, if you prefer privacy, they can be sent [to Waldo Jaquith via e-mail](mailto:waldo@usodi.org).
 
+[Further information is available on the US ODI blog](https://usodi.org/2014/12/08/ckan-multisite/).
