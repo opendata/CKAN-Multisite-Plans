@@ -1,4 +1,4 @@
-# CKAN Cloud RFP Draft
+# CKAN Multisite RFP Draft
 
 
 ## General
